@@ -1,0 +1,30 @@
+/**
+ * Rota / Recurso
+ */
+
+ /**
+  * Métodos HTTP:
+  * 
+  * GET: Buscar uma informcao do back-end
+  * PUT: Criar uma inforamcao do back-end
+  * POST: Alterar uma informacao do back-end
+  * DELETE: Deletar uma informacao do back-end
+  */
+
+  /**
+   * Tipos de parametros
+   * 
+   * Query: Parametros enviados na rota após o "?" (Filtros, Paginação)
+   * Route Params: Parametros utilizados para identificar recursos
+   * Request Body: Corpo da requisição, utilizado para criar ou alterar recursos
+   */
+
+   /**
+    * SQL: MySQL, SQLite, PostgreSQL, Oracle, Microsoft SQL
+    * NoSQL: MongoDB, CouchDB, etc
+    */
+
+    /**
+     * Driver: SELECT * FROM users
+     * Query Builder: teble('users').select('*')where()
+     */
